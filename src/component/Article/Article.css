@@ -1,0 +1,95 @@
+.iconProfile {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+}
+
+.containerArticles {
+  margin: 0 auto;
+  max-width: 941px;
+}
+
+.containerArticle {
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-between;
+  background: #FFFFFF;
+  border-radius: 5px;
+  min-height: 140px;
+  padding: 15px 20px;
+}
+
+.articleTitle-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  color: #1890FF;
+}
+
+.titleInfo {
+  display: flex;
+  align-items: center;
+}
+
+.imageHeart {
+  width: 16px;
+  height: 15px;
+  margin: 0 5px 0 13px;
+}
+
+.articleNameProfile {
+  display: flex;
+}
+
+.profileInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 12px;
+}
+
+.nameProfile {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.dataRegistration {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.bodyArticle {
+  margin-top: 10px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 22px;
+  color: rgba(0, 0, 0, 0.75);
+}
+
+.tagContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tagElement {
+  margin: 5px 6px 0 0;
+  padding: 3px 5px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  border-radius: 2px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+/*# sourceMappingURL=Article.css.map */

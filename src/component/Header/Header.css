@@ -1,0 +1,54 @@
+.header {
+  background-color: white;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 26px;
+}
+
+.headerElements {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  margin: 0 22px;
+}
+
+.headerElements-button-login {
+  display: flex;
+}
+
+.text {
+  font-size: 18px;
+}
+
+Button {
+  border: 1px solid white;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: white;
+  padding: 6px 18px;
+  font-size: 18px;
+}
+
+.menuButton:hover {
+  border: 1px solid #52C41A;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: white;
+  padding: 6px 18px;
+  font-size: 18px;
+}
+
+.linkName {
+  display: flex;
+  align-items: center;
+  margin-left: 27px;
+  margin-right: 13px;
+}
+
+.logoProfile {
+  margin-right: 10px;
+}
+
+/*# sourceMappingURL=Header.css.map */
